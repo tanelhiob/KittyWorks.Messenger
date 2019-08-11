@@ -14,7 +14,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <CopyToPublishDirectory>Never</CopyToPublishDirectory>
     </None>
-    <Compile Include="Library.fs" />
   </ItemGroup>
 
   <ItemGroup>
