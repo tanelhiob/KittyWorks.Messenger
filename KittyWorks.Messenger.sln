@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KittyWorks.Messenger.Functions", "KittyWorks.Messenger.Functions\KittyWorks.Messenger.Functions.fsproj", "{DF795AF3-43DF-425D-AB0E-3908D4C9FDD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF795AF3-43DF-425D-AB0E-3908D4C9FDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF795AF3-43DF-425D-AB0E-3908D4C9FDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF795AF3-43DF-425D-AB0E-3908D4C9FDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF795AF3-43DF-425D-AB0E-3908D4C9FDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B023D42C-8A97-4197-B522-6212C34C34C0}
+	EndGlobalSection
+EndGlobal
