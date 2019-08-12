@@ -25,7 +25,7 @@ let negotiate
 
     connectionInfo
 
-
+[<FunctionName("sendMessage")>]
 let sendMessage
     ([<HttpTrigger(AuthorizationLevel.Anonymous, "post")>] message: obj)
     ([<SignalR(HubName = "chat")>] chatHub : IAsyncCollector<SignalRMessage>)
